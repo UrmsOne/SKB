@@ -1,0 +1,6 @@
+database:
+  Host: 192.168.253.129
+  Port: 3310
+  Username: root
+  Password: 123456
+  DbName: server_demo

@@ -4,3 +4,11 @@
 @Name: types.go
 */
 package model
+
+type AdvertisingState = int
+
+const (
+	AdvertisingState1 AdvertisingState = iota
+	AdvertisingState2
+	AdvertisingState3
+)
